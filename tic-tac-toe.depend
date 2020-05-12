@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589318093 source:c:\users\homesweethome\documents\cprg\c\tic-tac-toe\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
